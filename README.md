@@ -232,5 +232,3 @@ build the CI/CD pipeline and the Kubernetes manifests yourself as part of the
 masterclass, starting from this working app.
 
 
-
-
