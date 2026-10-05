@@ -230,5 +230,3 @@ The browser calls these as `/api/...`; the backend serves them at the root.
 This repo intentionally ships without `.github/workflows` or `k8s/` — you'll
 build the CI/CD pipeline and the Kubernetes manifests yourself as part of the
 masterclass, starting from this working app.
-
-
